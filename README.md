@@ -1,4 +1,4 @@
-## @falidaelinda |  Estudante de Front-End e entusiasta da curiosidade alheia ✨
+## @falidaelinda ou Amanda |  Estudante de front-end e entusiasta da curiosidade alheia ✨
 
 💻Estudante de Front-End na {reprograma} 🟣
 
