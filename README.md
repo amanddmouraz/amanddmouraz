@@ -1,18 +1,18 @@
-## @falidaelinda ou Amanda |  QA e entusiasta da curiosidade alheia ✨
+## @falidaelinda ou Amanda | Analista de QA (backend nas horas vagas) ✨
 
-🐛 Caçadora de bugs, ou Quality Assurance 🐛
-📈 Automações | Testes Manuais | BDDD
-💻FullStack (TypeScript | NodeJS)
+<p> 🐛 Caçadora de bugs, ou Quality Assurance 🐛 </p>
+<p> 📈 Automações | Testes Manuais | BDD | Gherkin </p>
+<p> 💻 FullStack (TypeScript | React| NodeJS) </p>
 
 
-🟣 Pronomes: Ela/Dela 
+🟣 Pronomes: Ela/Dela |   She/Her
 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Amanda-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Amanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Amanda-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 </div>
   
   ##
