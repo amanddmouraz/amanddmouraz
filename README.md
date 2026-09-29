@@ -1,8 +1,9 @@
 ## @falidaelinda ou Amanda | Analista de QA (backend nas horas vagas) ✨
 
 <p> 🐛 Caçadora de bugs, ou Quality Assurance 🐛 </p>
-<p> 📈 Testes Automatizados | Testes Manuais | BDD | Gherkin </p>
-<p> 💻 FullStack (TypeScript| NodeJS) </p>
+<p> 📈 Automation testing (Cypress | Selenium) | Manual Test | BDD | Gherkin </p>
+<p> 💻 FullStack (TypeScript| Node.js| test-oriented code with Python ) </p>
+<p> 🗄️ NOSQL | SQL  </p>
 
 
 🟣 Pronomes: Ela/Dela |   She/Her
